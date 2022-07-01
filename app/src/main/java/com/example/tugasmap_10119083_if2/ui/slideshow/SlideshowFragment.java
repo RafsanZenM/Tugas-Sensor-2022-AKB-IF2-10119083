@@ -74,8 +74,8 @@ public class SlideshowFragment extends Fragment {
                 R.drawable.kopi
         };
         int[] list_judul = {
-                R.drawable.desktugas,
-                R.drawable.minibook
+                R.drawable.sensor,
+                R.drawable.map
 
 
         };
