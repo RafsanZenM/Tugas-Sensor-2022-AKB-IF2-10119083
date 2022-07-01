@@ -1,4 +1,7 @@
 package com.example.tugasmap_10119083_if2;
+//nama : Rafsan Zen Mustaofa
+//nim : 10119083
+//kelas : IF-2
 
 import android.os.Bundle;
 import android.view.View;
