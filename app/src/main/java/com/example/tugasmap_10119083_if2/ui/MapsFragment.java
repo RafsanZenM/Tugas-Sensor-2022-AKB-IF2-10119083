@@ -1,5 +1,8 @@
 package com.example.tugasmap_10119083_if2.ui;
-
+//Nama : Rafsan Zen Mustaofa
+//Nim : 10119083
+//kelas : IF-2
+//23/04/2022
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.app.ActivityCompat;
